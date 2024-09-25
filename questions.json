@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "category": "Science",
+      "question": "Which planet in our solar system is known for its rings?",
+      "options": ["Venus", "Mars", "Saturn", "Neptune"],
+      "answer": 2
+    },
+    {
+      "category": "Geography",
+      "question": "What is the capital city of Australia?",
+      "options": ["Melbourne", "Sydney", "Canberra", "Adelaide"],
+      "answer": 2
+    },
+    {
+      "category": "History",
+      "question": "What document, famously signed in 1215, is considered one of the first steps towards constitutional law?",
+      "options": ["Magna Carta", "The U.S. Constitution", "The Declaration of Independence", "The Emancipation Proclamation"],
+      "answer": 0
+    },
+    {
+      "category": "Sports",
+      "question": "Which country has won the most FIFA World Cup tournaments?",
+      "options": ["Spain", "Germany", "Argentina", "Brazil"],
+      "answer": 3
+    },
+    {
+      "category": "Literature",
+      "question": "Who wrote the novel “Pride and Prejudice”?",
+      "options": ["Charles Dickens", "Jane Austen", "Emily Bronte", "Mark Twain"],
+      "answer": 1
+    },
+    {
+      "category": "Music",
+      "question": "Who composed the Four Seasons?",
+      "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Antonio Vivaldi"],
+      "answer": 3
+    },
+    {
+      "category": "Cinema",
+      "question": "Which movie won the Best Picture Oscar at the 92nd Academy Awards in 2020?",
+      "options": ["Joker", "1917", "Parasite", "Ford v Ferrari"],
+      "answer": 2
+    },
+    {
+      "category": "Mathematics",
+      "question": "What is the value of pi to three decimal places?",
+      "options": ["3.141", "3.142", "3.143", "3.144"],
+      "answer": 1
+    },
+    {
+      "category": "Art",
+      "question": "Who painted the “Starry Night”?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Rembrandt"],
+      "answer": 0
+    },
+    {
+      "category": "Technology",
+      "question": "Who is considered the inventor of the World Wide Web?",
+      "options": ["Steve Jobs", "Tim Berners-Lee", "Bill Gates", "Mark Zuckerberg"],
+      "answer": 1
+    },
+    {
+      "category": "Science",
+      "question": "What is the hardest known natural material on Earth?",
+      "options": ["Iron", "Graphite", "Diamond", "Granite"],
+      "answer": 2
+    },
+    {
+      "category": "Geography",
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+      "answer": 3
+    },
+    {
+      "category": "History",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": ["Amelia Earhart", "Sally Ride", "Valentina Tereshkova", "Eileen Collins"],
+      "answer": 0
+    },
+    {
+      "category": "Sports",
+      "question": "In tennis, what term is used to describe a score of 40-40?",
+      "options": ["Tie", "Advantage", "Deuce", "Break"],
+      "answer": 2
+    },
+    {
+      "category": "Literature",
+      "question": "Who wrote the dystopian novel “1984”?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Kurt Vonnegut"],
+      "answer": 1
+    },
+    {
+      "category": "Music",
+      "question": "Who is known as the “King of Pop”?",
+      "options": ["Elvis Presley", "Michael Jackson", "Freddie Mercury", "Prince"],
+      "answer": 1
+    },
+    {
+      "category": "Cinema",
+      "question": "Which film directed by James Cameron was the first to gross over $2 billion?",
+      "options": ["Avatar", "Titanic", "Terminator 2: Judgment Day", "Aliens"],
+      "answer": 0
+    },
+    {
+      "category": "Mathematics",
+      "question": "In geometry, how many sides does a dodecagon have?",
+      "options": ["10", "12", "14", "16"],
+      "answer": 1
+    },
+    {
+      "category": "Art",
+      "question": "What is the name of the famous painting by Grant Wood, depicting a farmer and a woman in front of a house?",
+      "options": ["American Gothic", "The Scream", "The Persistence of Memory", "The Starry Night"],
+      "answer": 0
+    },
+    {
+      "category": "Technology",
+      "question": "What does the “HTTP” stand for in a website address?",
+      "options": ["High Technology Transfer Protocol", "High Transfer Text Protocol", "Hyper Text Technology Protocol", "Hyper Text Transfer Protocol"],
+      "answer": 3
+    },
+    {
+      "category": "Science",
+      "question": "Which chemical element has the symbol ‘Au’?",
+      "options": ["Silver", "Aluminum", "Gold", "Argon"],
+      "answer": 2
+    },
+    {
+      "category": "Geography",
+      "question": "Mount Everest is located in which mountain range?",
+      "options": ["Andes", "Alps", "Rocky", "Himalayas"],
+      "answer": 3
+    },
+    {
+      "category": "History",
+      "question": "Who was known as the “Maid of Orléans”?",
+      "options": ["Catherine the Great", "Joan of Arc", "Marie Antoinette", "Queen Elizabeth I"],
+      "answer": 1
+    },
+    {
+      "category": "Sports",
+      "question": "What country does the soccer player Lionel Messi come from?",
+      "options": ["Spain", "Argentina", "Brazil", "Portugal"],
+      "answer": 1
+    },
+    {
+      "category": "Literature",
+      "question": "Who wrote the famous novel “Moby-Dick”?",
+      "options": ["Herman Melville", "Ernest Hemingway", "F. Scott Fitzgerald", "Mark Twain"],
+      "answer": 0
+    },
+    {
+      "category": "Music",
+      "question": "What is the name of the famous opera by Giuseppe Verdi, that tells the story of a courtesan named Violetta?",
+      "options": ["Carmen", "The Magic Flute", "La Traviata", "The Barber of Seville"],
+      "answer": 2
+    },
+    {
+      "category": "Cinema",
+      "question": "What is the name of the director who created the “Star Wars” franchise?",
+      "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Ridley Scott"],
+      "answer": 1
+    },
+    {
+      "category": "Mathematics",
+      "question": "What is the square root of 144?",
+      "options": ["12", "14", "16", "18"],
+      "answer": 0
+    },
+    {
+      "category": "Art",
+      "question": "Who sculpted the famous statue known as “David”?",
+      "options": ["Raphael", "Donatello", "da Vinci", "Michelangelo"],
+      "answer": 3
+    },
+    {
+      "category": "Technology",
+      "question": "Which company was established on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne?",
+      "options": ["Microsoft", "Atari", "Apple", "IBM"],
+      "answer": 2
+    }
+  ]
+}
